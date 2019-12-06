@@ -1,14 +1,14 @@
-# Jump Training
+# 4-legged-walking
 
 ## Team Unity: 
-* Ko Kanghyuk, 2010009536, over2true@gmail.com 
+* Ko Kanghyuk, 2010009536, over2ture@gmail.com 
 * Kim Gihyun, 2014005341, progkim8@naver.com
 * Ha Dongsu, 2014005687, gkehdtn4218@gmail.com
 
 ## Ⅰ. Introduction
 * Motivation: We wanted to see how the machine learning works by using Unity Platform. By using the Unity, it is easy to see the progress while doing machine learning cause unity helps with visualizing the whole progress. Throughout this experience we can see the actual training process entirely.
 
-* The main objective: To get **WallJump** model simulating.
+* The main objective: To get **4-legged-walking** model simulating.
 
 ## Ⅱ. Dataset
 * 
